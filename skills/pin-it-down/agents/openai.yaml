@@ -1,0 +1,7 @@
+interface:
+  display_name: "Pin It Down"
+  short_description: "Turn evolving decisions into living project documents"
+  default_prompt: "Use $pin-it-down to create or update project documents, maintain lean project instructions, prepare local Git, and create verified checkpoint commits."
+
+policy:
+  allow_implicit_invocation: false
